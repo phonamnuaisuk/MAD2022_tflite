@@ -1,4 +1,4 @@
-# click_counter
+# TFLite
 
 A new Flutter project created with https://flutlab.io
 
